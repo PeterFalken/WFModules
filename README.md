@@ -9,8 +9,8 @@ To use these modules you'll need to copy the correct "jboss-deployment-structure
 Current modules:
 - PrimeFaces 5.1.x [4MB]
 -------------------------------------------------
->  - Modules/org/primefaces/main/*
->  - Module Activators/primefaces 5.1/*
+>-Modules/org/primefaces/main/*
+>-Module Activators/primefaces 5.1/*
 -------------------------------------------------
 
 - Richfaces 4.5.x [10MB]
