@@ -8,15 +8,15 @@ To use these modules you'll need to copy the correct "jboss-deployment-structure
 
 **Current modules:
 
-- PostgreSQL 5.1.x [4MB]
+- PostgreSQL 9.x [700KB]
 -------------------------------------------------
 > - Modules/org/postgresql/main/*
-> - Module Activators/postgres 9.3/*
+> - Module Activators/postgres 9.x/*
 
-- PrimeFaces 5.1.x [4MB]
+- PrimeFaces 5.x [4MB]
 -------------------------------------------------
 > - Modules/org/primefaces/main/*
-> - Module Activators/primefaces 5.1/*
+> - Module Activators/primefaces 5.x/*
 
 - Richfaces 4.5.x [10MB]
 -------------------------------------------------
