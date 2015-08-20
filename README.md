@@ -1,6 +1,6 @@
-WildFly8-Modules
+WildFly-Modules
 ================
-Modules for JBoss/WildFly 8.x
+Modules for JBoss/WildFly
 
 Modules are deployed under $JBOSS_HOME/modules/system/layers/base/
 
