@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module xmlns="urn:jboss:module:1.3" name="org.richfaces">
     <resources>
-        <resource-root path="richfaces-a4j-4.5.9.Final.jar"/>
-        <resource-root path="richfaces-rich-4.5.9.Final.jar"/>
-        <resource-root path="richfaces-core-4.5.9.Final.jar"/>
+        <resource-root path="richfaces-a4j-4.5.10.Final.jar"/>
+        <resource-root path="richfaces-rich-4.5.10.Final.jar"/>
+        <resource-root path="richfaces-core-4.5.10Final.jar"/>
         <!-- Libs -->
-        <resource-root path="libs/cssparser-0.9.16.jar"/>
+        <resource-root path="libs/cssparser-0.9.17.jar"/>
         <resource-root path="libs/guava-18.0.jar"/>
-        <resource-root path="libs/richfaces-page-fragments-4.5.9.Final.jar"/>
+        <resource-root path="libs/richfaces-page-fragments-4.5.10.Final.jar"/>
         <resource-root path="libs/sac-1.3.jar"/>
         <!-- Libs that enable push functionality -->
         <resource-root path="libs/push/atmosphere-runtime-2.3.4.jar"/>
