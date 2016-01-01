@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module xmlns="urn:jboss:module:1.3" name="org.richfaces">
     <resources>
-        <resource-root path="richfaces-a4j-4.5.11.Final.jar"/>
-        <resource-root path="richfaces-rich-4.5.11.Final.jar"/>
-        <resource-root path="richfaces-core-4.5.11Final.jar"/>
+        <resource-root path="richfaces-a4j-4.5.12.Final.jar"/>
+        <resource-root path="richfaces-rich-4.5.12.Final.jar"/>
+        <resource-root path="richfaces-core-4.5.12.Final.jar"/>
         <!-- Libs -->
         <resource-root path="libs/cssparser-0.9.18.jar"/>
         <resource-root path="libs/guava-18.0.jar"/>
-        <resource-root path="libs/richfaces-page-fragments-4.5.11.Final.jar"/>
+        <resource-root path="libs/richfaces-page-fragments-4.5.12.Final.jar"/>
         <resource-root path="libs/sac-1.3.jar"/>
         <!-- Libs that enable push functionality -->
-        <resource-root path="libs/push/atmosphere-runtime-2.4.0.jar"/>
+        <resource-root path="libs/push/atmosphere-runtime-2.4.1.jar"/>
     </resources>
     <dependencies>
         <module name="com.sun.jsf-impl" />
