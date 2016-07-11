@@ -1,0 +1,9 @@
+<jboss-deployment-structure>
+    <deployment>
+        <dependencies>
+            <module name="net.bootsfaces" meta-inf="export" />
+            <!-- Or use the line below instead -->
+            <!--module name="net.bootsfaces" export="true" meta-inf="export"/-->
+        </dependencies>
+    </deployment>
+</jboss-deployment-structure>
