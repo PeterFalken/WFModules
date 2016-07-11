@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module xmlns="urn:jboss:module:1.3" name="org.postgresql">
+	<resources>
+		<resource-root path="BootsFaces-OSP-0.9.1-dist.jar" />
+	</resources>
+	<dependencies>
+		<module name="javax.faces.api" />
+		<module name="javax.api"/>
+	</dependencies>
+</module>
