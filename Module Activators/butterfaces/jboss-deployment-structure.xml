@@ -1,7 +1,7 @@
 <jboss-deployment-structure>
     <deployment>
         <dependencies>
-            <module name="org.butterfaces" meta-inf="export" />
+            <module name="org.butterfaces" meta-inf="export"/>
             <!-- Or use the line below instead -->
             <!--module name="org.butterfaces" export="true" meta-inf="export"/-->
         </dependencies>
